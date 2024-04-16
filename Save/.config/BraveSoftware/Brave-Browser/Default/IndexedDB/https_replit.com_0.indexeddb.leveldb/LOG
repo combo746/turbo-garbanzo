@@ -1,0 +1,14 @@
+2024/03/18-21:24:18.085 1c8 Reusing MANIFEST /config/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_replit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/18-21:24:18.085 1c8 Recovering log #21
+2024/03/18-21:24:18.086 1c8 Reusing old log /config/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_replit.com_0.indexeddb.leveldb/000021.log 
+2024/03/18-21:24:18.088 1c8 Delete type=2 #20
+2024/03/18-21:24:18.843 1cd Level-0 table #26: started
+2024/03/18-21:24:18.859 1cd Level-0 table #26: 6929 bytes OK
+2024/03/18-21:24:18.880 1cd Delete type=0 #21
+2024/03/18-21:24:18.882 1c9 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 504 : 1
+2024/03/18-21:24:18.882 1c9 Compacting 1@0 + 1@1 files
+2024/03/18-21:24:18.898 1c9 Generated table #27@0: 85 keys, 4223 bytes
+2024/03/18-21:24:18.898 1c9 Compacted 1@0 + 1@1 files => 4223 bytes
+2024/03/18-21:24:18.941 1c9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/18-21:24:18.941 1c9 Delete type=2 #26
+2024/03/18-21:24:18.941 1c9 Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 504 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

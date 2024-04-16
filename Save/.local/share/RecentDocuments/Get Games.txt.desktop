@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=Get Games.txt
+Type=Link
+URL[$e]=file:$HOME/Desktop/Get Games.txt
+X-KDE-LastOpenedWith=org.kde.kwrite

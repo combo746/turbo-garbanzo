@@ -1,0 +1,6 @@
+2024/03/13-15:05:55.052 1c9 Creating DB /config/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb since it was missing.
+2024/03/13-15:05:55.103 1c9 Reusing MANIFEST /config/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/13-15:06:10.768 1ca Level-0 table #5: started
+2024/03/13-15:06:10.784 1ca Level-0 table #5: 827 bytes OK
+2024/03/13-15:06:10.802 1ca Delete type=0 #3
+2024/03/13-15:06:10.802 1ca Manual compaction at level-0 from (begin) .. (end); will stop at (end)

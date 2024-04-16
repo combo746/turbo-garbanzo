@@ -1,0 +1,8 @@
+{"timestamp":1324289,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","experiment_type":"rollout","branch":"control"}}
+{"timestamp":1324318,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"csv-import-release-rollout","branch":"enable-csv-import"}}
+{"timestamp":1324322,"category":"nimbus_events","name":"enrollment","extra":{"branch":"rollout","experiment":"ech-roll-out","experiment_type":"rollout"}}
+{"timestamp":1324361,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"fox-doodle-set-to-default-early-day-user-en-treatment-a-rollout","experiment_type":"rollout","branch":"treatment-a"}}
+{"timestamp":1324368,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"mozillaaccounts-toolbar-button-default-visibility-existing-user","branch":"treatment-a"}}
+{"timestamp":1324398,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"upgrade-spotlight-rollout","branch":"treatment","experiment_type":"rollout"}}
+{"timestamp":1324432,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"nimbus","branch":"delivery","experiment":"firefox-desktop-long-term-holdback-validation-release"}}
+{"timestamp":1324455,"category":"nimbus_events","name":"enrollment","extra":{"branch":"rollout","experiment":"phc-rollout","experiment_type":"rollout"}}
